@@ -11,3 +11,4 @@ Multinomial NB--> I/P is text-> TF_IDF, BOW, Word2VEC
 
 Gaussian NB--> Data set features is continuous
 
+![Alt text](https://github.com/srirampamerla/Naive-Bayes/blob/main/gNB.jpg?raw=true)
